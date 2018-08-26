@@ -1,0 +1,20 @@
+{
+    "type": "crafting_shaped",
+    "group": "decoration",
+    "pattern": [
+        "#  ",
+        "## ",
+        "###"
+    ],
+    "key": {
+        "#": [
+            {
+                "item": "minecraft:oak_plank"
+            }
+        ]
+    },
+    "result": {
+        "item": "minecraft:oak_stairs",
+        "count": 8
+    }
+}
