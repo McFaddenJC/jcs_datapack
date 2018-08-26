@@ -1,0 +1,38 @@
+{
+    "type": "crafting_shaped",
+    "group": "logs",
+    "pattern": [
+        "###",
+        "#C#",
+        "###"
+    ],
+    "key": {
+        "#": [
+            {
+                "item": "minecraft:oak_log"
+            },
+            {
+                "item": "minecraft:spruce_log"
+            },
+            {
+                "item": "minecraft:birch_log"
+            },
+            {
+                "item": "minecraft:jungle_log"
+            },
+            {
+                "item": "minecraft:acacia_log"
+            },
+            {
+                "item": "minecraft:dark_oak_log"
+            }
+        ],
+        "C": {
+            "item": "minecraft:chest"
+        }
+    },
+    "result": {
+        "item": "minecraft:shulker_box",
+        "count": 1
+    }
+}
