@@ -1,1 +1,0 @@
-execute as @e[type=minecraft:creeper,tag=!noexplode] run data merge entity @s {ExplosionRadius:0,Tags:["noexplode"]}

@@ -1,1 +1,0 @@
-execute as @e[type=minecraft:fireball,tag=!nerfed] run data merge entity @s {ExplosionPower:0,Tags:["nerfed"]}
