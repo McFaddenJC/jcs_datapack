@@ -16,8 +16,6 @@ gamerule doInsomnia true
 gamerule mobGriefing true
 # Allow players to look up any recipe
 gamerule doLimitedCrafting false
-# Disable PVP
-gamerule pvp false
 
 
 # Server performance rules
