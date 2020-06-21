@@ -1,8 +1,0 @@
-{
-    "replace":"true",
-    "values": [
-        {
-            "minecraft:enderman_holdable": "minecraft:poppy"
-        }
-    ]
-}
