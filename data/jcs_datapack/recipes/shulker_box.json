@@ -23,6 +23,12 @@
                 "item": "minecraft:acacia_log"
             },
             {
+                "item": "minecraft:warped_stem"
+            },
+            {
+                "item": "minecraft:crimson_stem"
+            },
+            {
                 "item": "minecraft:dark_oak_log"
             }
         ],
