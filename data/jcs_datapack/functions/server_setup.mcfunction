@@ -16,7 +16,8 @@ gamerule doInsomnia true
 gamerule mobGriefing true
 # Allow players to look up any recipe
 gamerule doLimitedCrafting false
-
+# Allow a single player to sleep for the server
+gamerule playersSleepingPercentage 0
 
 # Server performance rules
 gamerule doFireTick false
