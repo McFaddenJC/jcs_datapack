@@ -14,10 +14,10 @@ gamerule fireDamage false
 gamerule doInsomnia true
 # Allow villagers to breed
 gamerule mobGriefing true
-# Allow players to look up any recipe
+# Allow players to craft any recipe
 gamerule doLimitedCrafting false
 # Allow a single player to sleep for the server
-gamerule playersSleepingPercentage 0
+gamerule playersSleepingPercentage 25
 
 # Server performance rules
 gamerule doFireTick false
