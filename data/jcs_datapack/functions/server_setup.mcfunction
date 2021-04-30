@@ -5,11 +5,11 @@
 # Players keep inventory and experience upon death
 gamerule keepInventory true
 # Disable the ability to drown
-gamerule drowningDamage false
+gamerule drowningDamage true
 # Disable damage taken from falling too far
-gamerule fallDamage false
+gamerule fallDamage true
 # Disable damage from lava, magma, and fires
-gamerule fireDamage false
+gamerule fireDamage true
 # Allow phantoms to spawn
 gamerule doInsomnia true
 # Allow villagers to breed
