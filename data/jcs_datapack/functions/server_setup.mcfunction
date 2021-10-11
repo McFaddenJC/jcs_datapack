@@ -3,7 +3,7 @@
 
 # Rules to make it fun for younger players
 # Players keep inventory and experience upon death
-gamerule keepInventory true
+gamerule keepInventory false
 
 # Disable the ability to drown
 gamerule drowningDamage true
