@@ -29,3 +29,7 @@ gamerule playersSleepingPercentage 25
 # Server performance rules
 gamerule doFireTick false
 gamerule disableElytraMovementCheck true
+
+# New rules in 1.20
+gamerule snowAccumulationHeight 16
+
